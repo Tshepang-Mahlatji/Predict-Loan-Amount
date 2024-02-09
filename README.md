@@ -6,6 +6,11 @@ This project aims to develop a machine learning model to predict the loan amount
 - Model Training: Train machine learning models using algorithms like Linear Regression.
 - Model Evaluation: Assess model performance using evaluation metrics such as Mean Absolute Error (MAE) and R-squared.
 - Diagnostic Checks: Conduct residual analysis, assess feature importance, and perform cross-validation to ensure model reliability.
+## Usage
+1. Clone the repository: `git clone https://github.com/your-username/Loan-Amount-Prediction.git`
+2. Navigate to the project directory: `cd Loan-Amount-Prediction`
+3. Run the code files for data preprocessing, model training, and evaluation.
+
 ## Contributors
 - [Tshepang Mahlatji](https://github.com/Tshepang-Mahlatji)
 
